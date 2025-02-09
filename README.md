@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning EVERYTHING
 - 💞️ I’m looking to collaborate on anything you'll pay me for.
-- 📫 How to reach me Jsweeks0217@gmail.com
+- 📫 How to reach me
 
 <!---
 OakenCopse/OakenCopse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
